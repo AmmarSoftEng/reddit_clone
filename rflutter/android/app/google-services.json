@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845304979861",
+    "project_id": "rflutter-d4cfd",
+    "storage_bucket": "rflutter-d4cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845304979861:android:3098754bfa17e14d9fd69c",
+        "android_client_info": {
+          "package_name": "com.example.rflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845304979861-41a9bd65is29omkcj8m53i0lebsdhtb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrVTS9YcCRYrrAjnJIb7ppbQM0lvPYkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845304979861-41a9bd65is29omkcj8m53i0lebsdhtb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
